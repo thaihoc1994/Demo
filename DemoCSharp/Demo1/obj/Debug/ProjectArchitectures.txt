@@ -1,1 +1,0 @@
-D:\Hoc\GITHUB\C#\Demo\DemoCSharp\Demo1\Demo1.csproj;neutral
