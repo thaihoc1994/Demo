@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THAILTT-PC</Machine>
+    <WindowsUser>USER</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ba6fbfaa-946e-46ac-9192-69fbdec6a51c</PackageIdentityName>
+    <RegisteredManifestChecksum>CB3E53BBF99098A288FFA84038BBB29934718E342059B6D80918E342039FD11E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ba6fbfaa-946e-46ac-9192-69fbdec6a51c_1.0.0.0_neutral__x3hap7anq5jnt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ba6fbfaa-946e-46ac-9192-69fbdec6a51c_x3hap7anq5jnt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ba6fbfaa-946e-46ac-9192-69fbdec6a51c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=USER</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-21T03:44:46.535</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\bin\Debug\Demo1.exe">
+      <PackagePath>Demo1.exe</PackagePath>
+      <Modified>2016-07-21T03:44:46.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2016-07-21T03:30:51.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-21T03:29:57.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-21T03:44:46.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Demo\FirstApp\Demo1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-21T03:44:46.421</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
